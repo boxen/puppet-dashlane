@@ -9,7 +9,7 @@ describe 'dashlane' do
 
   it do
     should contain_package('dashlane').with({
-      :source   => 'https://www.dashlane.com/directdownload?platform=mac',
+      :source   => 'https://d3mfqat9ni8wb5.cloudfront.net/releases/2.1.1/2.1.1.38498/Dashlane.dmg',
       :provider => 'appdmg'
     })
   end
