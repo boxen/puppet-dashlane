@@ -1,9 +1,9 @@
-# Papers Puppet Module for Boxen
+# Dashlane Puppet Module for Boxen
 
 ## Usage
 
 ```puppet
-include papers
+include dashlane
 ```
 
 ## Required Puppet Modules
